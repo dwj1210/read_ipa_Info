@@ -1,4 +1,4 @@
-# read_ipa_Info.plist_entitlement
+# read_ipa_Info
 Read the Info.plist and entitlement of the ipa
 
 
